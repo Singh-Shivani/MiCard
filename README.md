@@ -9,4 +9,6 @@ https://flutter.dev/
 
 
 <p align="center">
-  <img src="Micard.jpg" width="350" title="Singh Shivani">
+<!--   <img src="MiCard.jpg" width="350 title="Singh Shivani"> -->
+  
+</p>
