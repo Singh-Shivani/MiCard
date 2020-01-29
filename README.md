@@ -8,9 +8,8 @@ If you want to know more about Flutter, here's a link:
 https://flutter.dev/
 
 
-<p align="center">
-<!--   <img src="MiCard.jpg" width="290 title="Singh Shivani"> -->
-<!--   ![alt text]() -->
+And this is how my card app looks...
 
-  
+<p align="center">
+  <img src="MiCard.jpg" width="320 title="Singh Shivani">  
 </p>
