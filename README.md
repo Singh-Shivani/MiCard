@@ -11,5 +11,5 @@ https://flutter.dev/
 And this is how my card app looks...
 
 <p align="center">
-  <img src="MiCard.jpg" width="320 title="Singh Shivani">  
+  <img src="micard.jpg" width="320 title="Singh Shivani">  
 </p>
